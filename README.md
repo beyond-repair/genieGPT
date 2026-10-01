@@ -1,3 +1,21 @@
+<div align="center">
+
+[![Lifecycle](https://img.shields.io/badge/●_ARCHIVE-64748b?style=for-the-badge&labelColor=0f0f23)](https://github.com/beyond-repair/ADL-Governance)
+[![Claim](https://img.shields.io/badge/Claim_0-22c55e?style=for-the-badge&labelColor=0f0f23)](https://github.com/beyond-repair/ADL-Governance/blob/main/docs/CLAIM_VALIDATION.md)
+[![Governance](https://img.shields.io/badge/ADL--Governance-7c3aed?style=for-the-badge&labelColor=0f0f23)](https://github.com/beyond-repair/ADL-Governance)
+
+```
+LIFECYCLE   ARCHIVE
+CLAIM       0
+NOT CLAIMED product · profit · deployment
+```
+
+</div>
+
+> **ARCHIVE QUEUE.** Historical only. Not a product.
+
+---
+
 # genieGPT
 
 **Classification:** ARCHIVED (GitHub `archived` flag still **false** — operator action only).
@@ -28,3 +46,14 @@ Head prior to Sweep-111: `dad74fd4dd32df481e84521347ac9ad9dc00d385`.
 Canonical agent / cognition work lives in `sovereign-clean-room` (runtime substrate) and `ADL-SEEM` (rules). Workforce product surface: `Digital_Double_virtual_workforce`.
 
 See [ADL-Governance](https://github.com/beyond-repair/ADL-Governance).
+
+
+---
+
+<div align="center">
+
+**REWRITE · BUILD · TRANSCEND**
+
+Governing source: [ADL-Governance](https://github.com/beyond-repair/ADL-Governance) · [Claim levels 0–5](https://github.com/beyond-repair/ADL-Governance/blob/main/docs/CLAIM_VALIDATION.md)
+
+</div>
